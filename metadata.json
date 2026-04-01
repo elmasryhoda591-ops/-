@@ -1,0 +1,5 @@
+{
+  "name": "Smart Lecture Study App",
+  "description": "An AI-powered app to process lectures, translate, simplify, highlight key points, and generate exam-style questions based on user preferences.",
+  "requestFramePermissions": []
+}
